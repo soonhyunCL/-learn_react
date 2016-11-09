@@ -1,2 +1,2 @@
 # -learn_react
-start to learn how to use react
+start to learn how to use react 开始学react (⊙o⊙)…
